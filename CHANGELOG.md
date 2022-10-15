@@ -6,6 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 - Changelog added
+- Rust workflow added
 
 [Unreleased]: https://github.com/olivierlacan/keep-a-changelog/compare/HEAD...HEAD
 
